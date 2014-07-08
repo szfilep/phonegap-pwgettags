@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": "com.phonegap.pwgettags",
+            "version": "1.0.0",
+            "uri": "https://github.com/szfilep/pwgettags/archive/1.0.0.tar.gz"
+        }
+    }
+}
